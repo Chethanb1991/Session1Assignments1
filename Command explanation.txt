@@ -1,0 +1,18 @@
+1.PWD command (print working directory) writes the full pathname of the current working directory to the standard output.
+2.VI is a screen-oriented text editor.
+3.touch command is the easiest way to create new, empty files
+4.The mkdir command is is used to create new directories.
+5. The rm (i.e., remove) command is used to delete files and directories.
+6.ls is a command to list files
+7.echo is a built-in command in the bash and C shells that writes its arguments to standard output. 
+8.cat command allows us to view contain of file.
+9.The who command writes the user name (i.e., login name) of the owner of the current login session to standard output.
+10. cd command used to change the current working directory 
+11. date command display date & time
+12. cal will print a calendar of the current month.
+13.mv (short for move) that moves one or more files or directories from one place to another.
+14. cp is a command for copying files and directories
+15.which Locate the executable file associated with a given command.
+
+
+
